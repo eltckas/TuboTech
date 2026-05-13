@@ -1,0 +1,15 @@
+# Carpetas de compilación
+/target/
+/build/
+/nbbuild/
+/dist/
+
+# Archivos específicos de NetBeans que NO se comparten
+/nbproject/private/
+/nbproject/project.properties
+/nbproject/project.xml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+#para que no se rompa el proyecto, ------>camilo
