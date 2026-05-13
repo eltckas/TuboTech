@@ -4,12 +4,9 @@
 /nbbuild/
 /dist/
 
-# Archivos específicos de NetBeans que NO se comparten
+# Solo ignorar la configuración PRIVADA de NetBeans
 /nbproject/private/
-/nbproject/project.properties
-/nbproject/project.xml
 
 # Archivos de sistema
 .DS_Store
 Thumbs.db
-#para que no se rompa el proyecto, ------>camilo
