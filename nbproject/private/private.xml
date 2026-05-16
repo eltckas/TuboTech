@@ -10,6 +10,9 @@
             <file>file:/home/tc/NetBeansProjects/TuboTech/src/Proyecto/modelo/Administrador.java</file>
             <file>file:/home/tc/NetBeansProjects/TuboTech/src/Proyecto/modelo/Empleado.java</file>
             <file>file:/home/tc/NetBeansProjects/TuboTech/src/Proyecto/modelo/Producto.java</file>
+            <file>file:/home/tc/NetBeansProjects/TuboTech/src/Proyecto/modelo/Inventario.java</file>
+            <file>file:/home/tc/NetBeansProjects/TuboTech/src/Proyecto/controlador/MainPruebas.java</file>
+            <file>file:/home/tc/NetBeansProjects/TuboTech/src/Proyecto/persistencia/ManejadorArchivos.java</file>
         </group>
     </open-files>
 </project-private>

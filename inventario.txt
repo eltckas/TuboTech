@@ -1,0 +1,2 @@
+101;Tubo PVC Presion 1/2;14500.0;30;Tubo para agua potable RDE 21
+102;Tubo PVC Sanitario 4;42000.0;15;Tubo para aguas negras de alta resistencia

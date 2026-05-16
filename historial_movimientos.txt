@@ -1,0 +1,11 @@
+[2026-05-16 12:50:33] [INVENTARIO] [REGISTRO] - ID/User: 101 | Producto: Tubo PVC Presion 1/2 | Stock inicial: 40 | Precio: $14500.0
+[2026-05-16 12:50:33] [INVENTARIO] [REGISTRO] - ID/User: 102 | Producto: Tubo PVC Sanitario 4 | Stock inicial: 15 | Precio: $42000.0
+[2026-05-16 12:50:33] [INVENTARIO] [ACTUALIZACION] - ID/User: 101 | Modificación stock de Tubo PVC Presion 1/2. Inicial: 40 -> Final: 50
+[2026-05-16 14:06:36] [INVENTARIO] [ACTUALIZACION] - ID/User: 101 | Modificación stock de Tubo PVC Presion 1/2. Inicial: 50 -> Final: 45
+[2026-05-16 14:06:36] [VENTAS] [REGISTRO_VENTA] - ID/User: 5001 | Venta de 5 unidades de Tubo PVC Presion 1/2 | Total: $72500.0
+[2026-05-16 14:21:00] [INVENTARIO] [ACTUALIZACION] - ID/User: 101 | Modificación stock de Tubo PVC Presion 1/2. Inicial: 45 -> Final: 40
+[2026-05-16 14:21:00] [VENTAS] [REGISTRO_VENTA] - ID/User: 5001 | Venta de 5 unidades de Tubo PVC Presion 1/2 | Total: $72500.0
+[2026-05-16 14:21:25] [INVENTARIO] [ACTUALIZACION] - ID/User: 101 | Modificación stock de Tubo PVC Presion 1/2. Inicial: 40 -> Final: 35
+[2026-05-16 14:21:25] [VENTAS] [REGISTRO_VENTA] - ID/User: 5001 | Venta de 5 unidades de Tubo PVC Presion 1/2 | Total: $72500.0
+[2026-05-16 16:47:59] [INVENTARIO] [ACTUALIZACION] - ID/User: 101 | Modificación stock de Tubo PVC Presion 1/2. Inicial: 35 -> Final: 30
+[2026-05-16 16:47:59] [VENTAS] [REGISTRO_VENTA] - ID/User: 5001 | Venta de 5 unidades de Tubo PVC Presion 1/2 | Total: $72500.0
